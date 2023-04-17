@@ -88,3 +88,7 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+Example/.DS_Store
+Example/Pods/.DS_Store
+Example/WSNavigationDrawerSwift/.DS_Store
+WSNavigationDrawerSwift/.DS_Store

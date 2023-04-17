@@ -1,0 +1,16 @@
+PODS:
+  - WSNavigationDrawerSwift (0.1.0)
+
+DEPENDENCIES:
+  - WSNavigationDrawerSwift (from `../`)
+
+EXTERNAL SOURCES:
+  WSNavigationDrawerSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSNavigationDrawerSwift: 061848a39b85ef92eaf7c574b3f4e3dd5a9bfe31
+
+PODFILE CHECKSUM: d27dc40904aa160e9b8e443199135bbce45fb2f4
+
+COCOAPODS: 1.11.3
